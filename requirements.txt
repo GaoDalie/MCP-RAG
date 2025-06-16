@@ -1,0 +1,14 @@
+mcp
+langchain
+langchain_openai
+langgraph
+langchain_mcp_adapters
+langchain_community
+langchain_core
+pydantic
+faiss-cpu
+exa_py
+firecrawl-py
+streamlit
+langchain_ollama
+langchain-mistralai
